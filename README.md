@@ -7,7 +7,7 @@ Hi there, I’m Feeha 👋
 ## 🛠️ Project, Tech & Tools
 - 🚀 Passionate about building, learning, and sharing projects in tech.  
 - 🌍 Currently exploring new tools and sharpening my development skills.  
-- 🔭 Interested in open-source, full-stack development, Cyber Security and AI
+- 🔭 Interested in Cyber Security, AI and also open-source, full-stack development
 - 🤖 Project I’m working on: VisionX Sentinel in Projukti Lipi
 - 📚 I’m learning: Backend,CSS,HTML
 - 🐛 Bug creator & fixer - it's a package deal
