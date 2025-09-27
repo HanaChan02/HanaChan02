@@ -15,7 +15,7 @@ Hi there, I’m Feeha 👋
 - ⚡ Fun fact: This is my first ever project and I don't know how to do anything >-<
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaChan02&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaChan02&layout=compact&v=2)
 
 ## 📫 Let’s Connect
 - GitHub: [@HanaChan02](https://github.com/HanaChan02)  
