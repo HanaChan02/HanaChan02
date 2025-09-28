@@ -13,7 +13,7 @@ Hi there, I’m Feeha 👋
 - 🐛 Bug creator & fixer - it's a package deal
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaChan02&layout=compact&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaChan02&layout=compact&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HanaChan02&theme=radical)
 
 ## 💻 Tech Stack
