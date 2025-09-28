@@ -38,7 +38,7 @@ Hi there, I’m Feeha 👋
 
 ## 📫 Let’s Connect
 - GitHub: [@HanaChan02](https://github.com/HanaChan02)  
-- LinkedIn: https://www.linkedin.com/in/tahmina-rahman-feeha-2542b8226/
+- LinkedIn: https://www.linkedin.com/in/tahmina-rahman-feeha/
 - Email: thfeeha@gmail.com / feeha1710@gmail.com
 
 ✨ Thanks for visiting my profile! Always open to learning, collaboration, and exciting new opportunities.
